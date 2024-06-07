@@ -1,0 +1,29 @@
+Ghost Pre-Use Instructions
+-----------------
+Step 1: Be sure all C++ Redistributable packs are installed using this link: https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+Step 2: Be sure proper DirectX Runtime is installed using this link: https://www.microsoft.com/en-us/download/details.aspx?id=35
+
+Step 3: Be sure Memory Integrity is turned off by doing the following:
+Windows Security -> Device Security -> Core Isolation -> Memory Integrity, turn it off and restart PC
+
+Step 4: If Riot Vanguard anti cheat is installed, it is recommended to remove it
+
+Step 5: Be sure to turn off any anti-viruses, as they will interfere with injection and even the injector in general, we recommend using Defender Control
+-----------------
+Ghost Injection Instructions
+-----------------
+Step 1: Be sure that the game is closed
+
+Step 2: Open loader, register/login then go to your corrosponding game
+
+Step 3: Select it, it should begin loading, if it does not load, then we recommend using cloudfare 1.1.1.1 program because something with your ISP may be blocking it from downloading
+
+Step 4: After loader says loaded success, let it close and open game
+
+Step 5: Let game load up, and proceed as normal, you should hear a beep after it is finished injecting.
+
+Step 6: Press Insert on your keyboard to open/close menu and such, proceed to use it
+-----------------
+
+If a bsod occurs, reinstall the c++ redistributable and directx runtime then restart your pc again before loading the tool.

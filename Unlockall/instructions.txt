@@ -1,0 +1,25 @@
+Pre-Use Instructions
+-----------------
+Step 1: Be sure all C++ Redistributable packs are installed using this link: https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+Step 2: Be sure Memory Integrity is turned off by doing the following:
+Windows Security -> Device Security -> Core Isolation -> Memory Integrity, turn it off and restart PC
+
+Step 3: If Riot Vanguard anti cheat is installed, it is recommended to remove it
+
+Step 4: Be sure to turn off any anti-viruses, as they will interfere with injection and even the injector in general, we recommend using Defender Control
+-----------------
+Injection Instructions
+-----------------
+Step 1: Be sure that the game is closed
+
+Step 2: Enter Key and press enter it should begin loading, if it does not load, then we recommend using cloudfare 1.1.1.1 program because something with your ISP may be blocking it from downloading
+
+Step 3: After loader says loaded success, let it close and open game
+
+Step 4: Let game load up, and proceed as normal, you should hear a beep after it is finished injecting.
+
+Step 5: Press F1 while in the menu screen to unlock all items. You may need to do this after games, but it will never unequip items after equipping them while using this!
+-----------------
+
+If a bsod occurs, reinstall the c++ redistributable packs then restart your pc again before loading the tool.
